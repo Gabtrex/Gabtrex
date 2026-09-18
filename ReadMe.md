@@ -1,5 +1,5 @@
 # 💫 About Me :
-I'm Gabriel, an 19 year old game developer who has been creating games since the age of 10. I started with Scratch and progressively moved to engines such as Unreal Engine 5 and Unity, building experience across multiple technologies and languages.<br><br>In 2025, I independently developed and released Bloodbound Knights on Steam, handling the full production pipeline and gaining strong experience with Unreal Engine 5 and Blueprint. Prior to that, I published a mobile game on Google Play and worked on smaller projects using C#, Roblox Lua, and Godot.<br><br>I am currently studying at ANATEN, where I continue to strengthen my C# skills and expand my engine and systems knowledge.
+I'm Gabriel, an 19 year old game developer who has been creating games since the age of 10. I started with Scratch and progressively moved to engines such as Unreal Engine 5 and Unity, building experience across multiple technologies and languages.<br><br>In 2025, I independently developed and released Bloodbound Knights on Steam, handling the full production pipeline and gaining strong experience with Unreal Engine 5 and Blueprint. Prior to that, I published a mobile game on Google Play and worked on smaller projects using C#, Roblox Lua, and Godot.<br><br>I am currently studying at ISCOD.
 
 
 ## 🌐 Socials :
